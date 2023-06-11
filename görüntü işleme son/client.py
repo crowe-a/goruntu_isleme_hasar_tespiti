@@ -1,0 +1,1 @@
+def soket_çağır():
